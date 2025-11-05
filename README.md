@@ -1,4 +1,5 @@
 # CAIRE Work Sample — Timefold + Bryntum Scheduler Prototype
+🔗 Live Repository: https://github.com/alfredocapasso1973/caire-scheduler-prototype
 
 This project implements a simplified version of the Caire AI scheduling workflow:
 Next.js (App Router) + TypeScript + Timefold AI + Bryntum SchedulerPro.
